@@ -74,15 +74,26 @@ product-review-sentiment-analysis-nlp/
 6. Building structured NLP project for GitHub portfolio
 
 **How to Run the Project**
-1️⃣ Clone the repository
+
+1. Clone the repository
 git clone <your-repo-link>
 cd product-review-sentiment-analysis-nlp
-2️⃣ Install dependencies
-pip install -r requirements.txt
-3️⃣ Run Jupyter Notebook
-jupyter notebook
 
+2. Install dependencies
+pip install -r requirements.txt
+
+3.Run Jupyter Notebook
+jupyter notebook
 Open sentiment_analysis.ipynb and run all cells.
+
+4. To test Streamlit
+pip installl streamlit
+
+6. Run the Streamlit
+streamlit run app.py
+  or
+python -m streamlit run app.py
+
 
 **Future Improvements**
 
