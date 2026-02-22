@@ -82,7 +82,7 @@ cd product-review-sentiment-analysis-nlp
 2. Install dependencies
 pip install -r requirements.txt
 
-3.Run Jupyter Notebook
+3. Run Jupyter Notebook
 jupyter notebook
 Open sentiment_analysis.ipynb and run all cells.
 
